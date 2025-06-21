@@ -1,5 +1,3 @@
-# efficient-video-processing-autonomous-driving
-
 # 🚗 Efficient Frame Skipping for Computational Load Reduction in Autonomous Lane and Object Detection
 
 This project presents a hybrid deep learning-based video processing pipeline aimed at reducing computational load in autonomous driving systems by efficiently skipping redundant frames during lane and object detection. The framework integrates lane detection, object detection, and a SlowFast network-based temporal modeling technique, optimized with an Absolute Pixel Difference (APD) strategy.
